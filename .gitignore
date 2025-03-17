@@ -26,3 +26,4 @@ node_modules/
 deleted_node_modules/
 src/brainstorm-625a5-firebase-adminsdk-1kx3i-74c7a98ec0 2.json
 venv/
+src/brainstorm-625a5-firebase-adminsdk-1kx3i-*.json
