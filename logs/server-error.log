@@ -1,0 +1,1620 @@
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/massimo/Developer/brainstorm-website/brainstorm/server.js'
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11
+app.use((req, res, next) => {
+^
+
+ReferenceError: Cannot access 'app' before initialization
+    at Object.<anonymous> (/Users/massimo/Developer/brainstorm-website/brainstorm/server.js:11:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47

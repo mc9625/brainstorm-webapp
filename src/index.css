@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+a {
+  color: white!important;
+  text-decoration: none!important;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.fade-in {
+  opacity: 1 !important;
+}
+.typewriting {
+  overflow: hidden;
+  animation: typing 2s steps(40, end);
+  animation-fill-mode: both;
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+/* Stili per le barre di scorrimento verticali */
+@media (min-width: 601px) {
+  ::-webkit-scrollbar {
+    width: 12px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background-color: #282a36;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background-color: #44475a;
+    border-radius: 6px;
+  }
+
+  /* Stile per la larghezza della barra di scorrimento in Firefox */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #44475a #282a36;
+  }
+
+  /* Stili per la larghezza della barra di scorrimento in Chrome/Edge/Safari */
+  *::-webkit-scrollbar {
+    width: 12px;
+    scrollbar-width: thin;
+    scrollbar-color: #44475a #282a36;
+  }
+}
+
+@keyframes typing {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes dotting {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.dot {
+  opacity: 0;
+  animation: dotting 1s infinite;
+  animation-delay: 0s;
+  font-family: 'Montserrat', sans-serif!important;
+  margin-right:2px;
+}
+.dot:nth-child(1) {
+  margin-left:5px;
+}
+.dot:nth-child(2) {
+  animation-delay: 0.2s;
+}
+
+.dot:nth-child(3) {
+  animation-delay: 0.4s;
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.fade-in-enter {
+  opacity: 0;
+}
+
+.fade-in-enter-active {
+  opacity: 1;
+  transition: opacity 500ms;
+}
+@media (min-width: 600px) {
+  .css-1oxpim9-MuiContainer-root {
+      padding-left: 24px;
+      padding-right: 0!important;
+  }
+}
+
+.haiku-container {
+  backface-visibility: hidden;
+}
+
+.infinite-scroll-container::-webkit-scrollbar {
+  width: 8px;
+}
+
+.infinite-scroll-container::-webkit-scrollbar-thumb {
+  background-color: #888;
+  border-radius: 4px;
+}
+
+.infinite-scroll-container::-webkit-scrollbar-thumb:hover {
+  background-color: #555;
+}
