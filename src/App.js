@@ -6,6 +6,8 @@ import ConversationDetails from './components/ConversationDetails';
 import SplashScreen from './components/SplashScreen';
 import MobileLanding from './components/MobileLanding';
 import ProjectInfo from './components/ProjectInfo'; // Importa il tuo componente ProjectInfo
+import { Drawer, Fab, IconButton } from '@mui/material';
+import { Chat as ChatIcon } from '@mui/icons-material';
 import draculaTheme from './draculaTheme';
 import { useTheme } from '@mui/material/styles';
 import './style.css';
@@ -23,7 +25,8 @@ function App() {
   const [showProjectInfo, setShowProjectInfo] = useState(false); // Aggiungi lo stato per gestire la visualizzazione di ProjectInfo
   const isMobile = useMediaQuery(theme.breakpoints.down('sm'));
   const isMobileLandscape = useMediaQuery('(max-width: 959.95px)'); 
-
+  const isPortrait = useMediaQuery('(orientation: portrait)');
+  const [drawerOpen, setDrawerOpen] = useState(false);
 
   const handleConversationSelect = (conversationId, mostRecentId) => {
     setSelectedConversation(conversationId);
@@ -104,12 +107,46 @@ function App() {
               paddingRight: '0!important',
             }}
           >
-            <Box sx={{ display: 'flex', height: '100vh', 
+            <Box 
+              className="no-padding-container"
+              sx={{ display: 'flex', height: '100vh', 
               paddingTop: { xs: 0, sm: 0 },
-              paddingLeft: { xs: 1, sm: 0 },
-              paddingRight: { xs: 1, sm: 0 },
+              paddingLeft: { xs: 0, sm: 0 },
+              paddingRight: { xs: 0, sm: 0 },
               backgroundColor: { xs: '#ffffff', sm: '#282a36' },
               color: { xs: '#000000', sm: '#ffffff'} }}>
+              {isPortrait && (
+                <>
+                  <Fab
+                    color="primary"
+                    aria-label="conversations"
+                    sx={{ position: 'fixed', top: '20px', right: '16px', zIndex: 1000 }}
+                    onClick={() => setDrawerOpen(true)}
+                  >
+                    <ChatIcon />
+                  </Fab>
+                  <Drawer
+                    anchor="bottom"
+                    open={drawerOpen}
+                    onClose={() => setDrawerOpen(false)}
+                  >
+                    <Box sx={{ p: 2, maxHeight: '60vh', overflow: 'auto' }}>
+                      <Typography variant="h6">Conversazioni</Typography>
+                      <ConversationList 
+                        onSelect={(id) => {
+                          handleConversationSelect(id, mostRecentConversation);
+                          setDrawerOpen(false);
+                        }}
+                        selectedConversation={selectedConversation}
+                        mostRecentConversation={mostRecentConversation}
+                        setMostRecentConversation={setMostRecentConversation}
+                        setConversationsLoaded={setConversationsLoaded}
+                        compact={true}
+                      />
+                    </Box>
+                  </Drawer>
+                </>
+              )}
               <Box sx={{ 
                   width: isMobile ? (isMobileLandscape ? '0' : '0') : '30%', 
                   borderRight: { xs: 'none', sm: '1px solid gray' }, 
@@ -121,16 +158,16 @@ function App() {
                   paddingLeft: 2 
                   }}>
                   <Cloud fontSize={isMobile && isMobileLandscape ? "small" : "large"} />
-                    <Typography variant={isMobile && isMobileLandscape ? "h6" : "h2"}>&nbsp; Brainstormings</Typography>
+                    <Typography variant={isMobile && isMobileLandscape ? "h6" : "h2"}>&nbsp; Memoria & Oblio</Typography>
                 </Box>
                 <Divider />
                 <ConversationList onSelect={handleConversationSelect} selectedConversation={selectedConversation} mostRecentConversation={mostRecentConversation} setMostRecentConversation={setMostRecentConversation} setConversationsLoaded={setConversationsLoaded} />
               </Box>
               <Box sx={{ 
                   width: isMobile ? (isMobileLandscape ? '100%' : '100%') : '70%',
-                  paddingLeft: { xs: '15px', sm: '32px' }, 
-                  paddingRight: { xs: '15px', sm: '32px' },
-                  paddingBottom: { xs: '15px', sm: '32px' }, 
+                  paddingLeft: { xs: '0', sm: '32px' }, 
+                  paddingRight: { xs: '0', sm: '32px' },
+                  paddingBottom: { xs: '0', sm: '32px' }, 
                   overflow: 'auto'
               }}>
                     {selectedConversation && <ConversationDetails conversationId={selectedConversation} mostRecentConversation={mostRecentConversation} />}
@@ -153,6 +190,39 @@ function App() {
             paddingRight: { xs: 1, sm: 0 },
             backgroundColor: { xs: '#ffffff', sm: '#282a36' },
             color: { xs: '#000000', sm: '#ffffff'} }}>
+
+            {isPortrait && (
+              <>
+                <Fab
+                  color="primary"
+                  aria-label="conversations"
+                  sx={{ position: 'fixed', bottom: '80px', left: '16px', zIndex: 1000 }}
+                  onClick={() => setDrawerOpen(true)}
+                >
+                  <ChatIcon />
+                </Fab>
+                <Drawer
+                  anchor="bottom"
+                  open={drawerOpen}
+                  onClose={() => setDrawerOpen(false)}
+                >
+                  <Box sx={{ p: 2, maxHeight: '60vh', overflow: 'auto' }}>
+                    <Typography variant="h6">Conversazioni</Typography>
+                    <ConversationList 
+                      onSelect={(id) => {
+                        handleConversationSelect(id, mostRecentConversation);
+                        setDrawerOpen(false);
+                      }}
+                      selectedConversation={selectedConversation}
+                      mostRecentConversation={mostRecentConversation}
+                      setMostRecentConversation={setMostRecentConversation}
+                      setConversationsLoaded={setConversationsLoaded}
+                      compact={true}
+                    />
+                  </Box>
+                </Drawer>
+              </>
+            )}
             <Box sx={{ 
               width: { 
                 xs: '100%', // width al 100% per schermi extra-small e up
@@ -161,7 +231,7 @@ function App() {
               }, 
               borderRight: { xs: 'none', sm: '1px solid gray' }, overflow: 'auto' }}>
               <Box sx={{ display: 'flex', alignItems: 'center', paddingLeft: 2 , paddingTop: isMobile ? 1 : 2, paddingBottom: isMobile ? 2 : 1}}>
-                <Typography variant={isMobile && isMobileLandscape ? "h4" : "h6"}>&nbsp; Brainstormings</Typography>
+                <Typography variant={isMobile && isMobileLandscape ? "h4" : "h6"}>&nbsp; Memoria e Oblio</Typography>
               </Box>
               <Divider />
               <ConversationList onSelect={handleConversationSelect} selectedConversation={selectedConversation} mostRecentConversation={mostRecentConversation} setMostRecentConversation={setMostRecentConversation} setConversationsLoaded={setConversationsLoaded} />

@@ -25,7 +25,19 @@ function log(...args) {
   }
 }
 
-app.use(cors());
+app.use(cors({
+  origin: '*', // Temporaneamente consenti tutte le origini
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization'],
+  credentials: true
+}));
+
+// Aggiungi un middleware di logging per tutte le richieste
+app.use((req, res, next) => {
+  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);
+  next();
+});
+
 app.use(express.json());
 
 // Configurazione in uno specifico file di configurazione
