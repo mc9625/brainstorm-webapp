@@ -16,7 +16,8 @@ import PersonIcon from '@mui/icons-material/Person';
 import ReactMarkdown from 'react-markdown';
 
 // API URL - set this to your actual API URL
-const API_BASE_URL = "";
+import API_CONFIG from '../config';
+const API_BASE_URL = API_CONFIG.API_BASE_URL;
 
 // Constants & Theme
 const CONVERSATION_LENGTH = 10;
@@ -272,15 +273,17 @@ function ConversationDetails({ conversationId, mostRecentConversation }) {
     }
   }, [rawTitle]);
   
-  // Calculate conversation progress
   useEffect(() => {
     if (messages.length > 0) {
       const aiMessages = messages.filter(msg => msg.speaker === 'AI1' || msg.speaker === 'AI2');
-      console.log(`AI Messages: ${aiMessages.length} of expected 20`);
-      
-      const calculatedProgress = Math.min(100, Math.round((aiMessages.length / 20) * 100));
-      console.log(`Progress calculation: ${aiMessages.length} messages out of 20 = ${calculatedProgress}%`);
-      
+      // CORREZIONE: Usare CONVERSATION_LENGTH come numero target di messaggi AI
+      const targetAIMessages = CONVERSATION_LENGTH;
+      console.log(`AI Messages: ${aiMessages.length} of expected ${targetAIMessages}`);
+  
+      // CORREZIONE: usare targetAIMessages nel calcolo
+      const calculatedProgress = Math.min(100, Math.round((aiMessages.length / targetAIMessages) * 100));
+      console.log(`Progress calculation: ${aiMessages.length} messages out of ${targetAIMessages} = ${calculatedProgress}%`);
+  
       setProgress(calculatedProgress);
     } else {
       setProgress(0);
@@ -497,21 +500,34 @@ function ConversationDetails({ conversationId, mostRecentConversation }) {
   
   // Updated application state logic
   const updateApplicationState = (messagesList) => {
+    // Se la lista dei messaggi è vuota
     if (!messagesList || messagesList.length === 0) {
-      debug("No messages yet, enabling send button and hiding typing indicators");
-      setCanSendMessage(true);
-      setIsProcessingUserMessage(false);
-      setShowAI1Typing(false);
-      setShowAI2Typing(false);
+      // Se l'utente ha appena inviato un messaggio (sentMessage è popolato),
+      // è probabile che stiamo aspettando la risposta di AI1.
+      // Manteniamo l'indicatore di AI1 attivo ottimisticamente.
+      if (sentMessage) {
+        debug("Nessun messaggio dal server, ma un messaggio utente è in attesa. AI1 typing rimane attivo ottimisticamente.");
+        setShowAI1Typing(true);
+        setShowAI2Typing(false); // AI2 non dovrebbe scrivere ora
+        setCanSendMessage(false); // L'utente non dovrebbe inviare di nuovo immediatamente
+        setIsProcessingUserMessage(true); // Stiamo processando
+      } else {
+        // La conversazione è genuinamente vuota o resettata, nessun messaggio in attesa
+        debug("Nessun messaggio dal server e nessun messaggio utente in attesa. Indicatori di typing spenti.");
+        setCanSendMessage(true);
+        setIsProcessingUserMessage(false);
+        setShowAI1Typing(false);
+        setShowAI2Typing(false);
+      }
       return;
     }
-    
-    // Get the last message for context
+
+    // Se ci sono messaggi, procedi con la logica esistente
     const lastMessage = messagesList[messagesList.length - 1];
     debug(`Last message from: ${lastMessage.speaker}`);
-    
+
     // MODIFIED RULES FOR MESSAGING BEHAVIOR AND TYPING INDICATORS:
-    
+
     // 1. If the last message is from a User, show AI1 is typing
     if (lastMessage.speaker === 'User') {
       debug("Last message from User - showing AI1 typing");

@@ -2200,3 +2200,23 @@ Error fetching messages for conversation 1537: Error: connect ETIMEDOUT 129.213.
   address: '129.213.54.22',
   port: 5432
 }
+Error: Cannot find module '../encodings'
+Require stack:
+- /Users/massimo/Developer/brainstorm-website/brainstorm/node_modules/iconv-lite/lib/index.js
+- /Users/massimo/Developer/brainstorm-website/brainstorm/node_modules/raw-body/index.js
+- /Users/massimo/Developer/brainstorm-website/brainstorm/node_modules/body-parser/lib/read.js
+- /Users/massimo/Developer/brainstorm-website/brainstorm/node_modules/body-parser/lib/types/json.js
+- /Users/massimo/Developer/brainstorm-website/brainstorm/node_modules/body-parser/index.js
+- /Users/massimo/Developer/brainstorm-website/brainstorm/node_modules/express/lib/express.js
+- /Users/massimo/Developer/brainstorm-website/brainstorm/node_modules/express/index.js
+- /Users/massimo/Developer/brainstorm-website/brainstorm/server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.getCodec (/Users/massimo/Developer/brainstorm-website/brainstorm/node_modules/iconv-lite/lib/index.js:65:27)
+    at Object.getDecoder (/Users/massimo/Developer/brainstorm-website/brainstorm/node_modules/iconv-lite/lib/index.js:127:23)
+    at getDecoder (/Users/massimo/Developer/brainstorm-website/brainstorm/node_modules/raw-body/index.js:46:18)
+    at readStream (/Users/massimo/Developer/brainstorm-website/brainstorm/node_modules/raw-body/index.js:194:15)
+    at getRawBody (/Users/massimo/Developer/brainstorm-website/brainstorm/node_modules/raw-body/index.js:116:12)
+    at read (/Users/massimo/Developer/brainstorm-website/brainstorm/node_modules/body-parser/lib/read.js:79:3)

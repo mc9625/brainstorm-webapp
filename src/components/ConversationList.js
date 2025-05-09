@@ -2,6 +2,7 @@ import React, { useState, useEffect, useCallback } from 'react';
 import { List, ListItemButton, ListItemText, Typography, Box, useTheme, Divider, useMediaQuery, Button, IconButton } from '@mui/material';
 import { Chat, Refresh as RefreshIcon } from '@mui/icons-material';
 import InfiniteScroll from 'react-infinite-scroll-component';
+import API_CONFIG from '../config'; // Import the API configuration
 
 function ConversationList({ onSelect, selectedConversation, setConversationsLoaded, selectedHashtag, mostRecentConversation, setMostRecentConversation }) {
   const [conversations, setConversations] = useState([]);
@@ -20,7 +21,8 @@ function ConversationList({ onSelect, selectedConversation, setConversationsLoad
   const pageSize = 20;
   const AUTO_REFRESH_INTERVAL = 10000; // 10 secondi per l'aggiornamento automatico
 
-  const API_BASE_URL = ""; // URL relativo vuoto
+  // Use the API_BASE_URL from the config
+  const API_BASE_URL = API_CONFIG.API_BASE_URL;
 
   // Carica i contatori dal backend
   const loadCounters = async () => {
@@ -58,8 +60,8 @@ function ConversationList({ onSelect, selectedConversation, setConversationsLoad
   
     // Se reset è true, facciamo un caricamento completo
     const url = reset 
-    ? `${API_BASE_URL}/api/conversations?limit=${pageSize + 1}`
-    : `${API_BASE_URL}/api/conversations?limit=${pageSize + 1}${lastLoaded ? `&lastLoaded=${lastLoaded}` : ''}`;
+      ? `${API_BASE_URL}/api/conversations?limit=${pageSize + 1}`
+      : `${API_BASE_URL}/api/conversations?limit=${pageSize + 1}${lastLoaded ? `&lastLoaded=${lastLoaded}` : ''}`;
 
     const cacheBuster = `&_t=${new Date().getTime()}`; // Aggiunge un parametro per evitare la cache
   
@@ -134,7 +136,7 @@ function ConversationList({ onSelect, selectedConversation, setConversationsLoad
     } finally {
       setIsLoading(false);
     }
-  }, [hasMore, isLoading, lastLoaded, onSelect, pageSize, selectedConversation, selectedHashtag, setConversationsLoaded, mostRecentConversation, setMostRecentConversation]);
+  }, [hasMore, isLoading, lastLoaded, onSelect, pageSize, selectedConversation, selectedHashtag, setConversationsLoaded, mostRecentConversation, setMostRecentConversation, API_BASE_URL]);
 
   // Caricamento iniziale
   useEffect(() => {
