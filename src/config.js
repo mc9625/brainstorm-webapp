@@ -5,7 +5,7 @@ const API_CONFIG = {
   // Replace this with your actual Render URL once deployed
   API_BASE_URL: process.env.NODE_ENV === 'production'
     ? 'https://aibook.nuvolaproject.cloud/brainstorm-api' // This will be your Render URL
-    : 'http://localhost:5001'
+    : 'https://aibook.nuvolaproject.cloud/brainstorm-api'
 };
 
 export default API_CONFIG;

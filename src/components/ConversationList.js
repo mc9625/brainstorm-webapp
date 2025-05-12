@@ -32,24 +32,36 @@ function ConversationList({ onSelect, selectedConversation, setConversationsLoad
         throw new Error(`Network error: ${response.status} ${response.statusText}`);
       }
       const data = await response.json();
-      console.log("Counter data:", data);
-
-      setDbTotalConversations(data.totalConversations || 0);
-      setDbTotalMessages(data.totalMessages || 0);
+      console.log("Counter data (raw):", data); // Log dei dati grezzi
+  
+      // Supporta entrambi i formati camelCase e snake_case
+      const totalConversations = data.totalConversations || data.total_conversations || 0;
+      const totalMessages = data.totalMessages || data.total_messages || 0;
       
-      // Verifica se il numero di conversazioni è aumentato
-      if (lastPolledCount > 0 && data.totalConversations > lastPolledCount) {
-        console.log("Nuova conversazione rilevata!");
-        // Forza il caricamento delle conversazioni più recenti
+      console.log("Extracted counter values:", {
+        totalConversations, 
+        totalMessages,
+        current: { dbTotalConversations, dbTotalMessages },
+        lastPolled: lastPolledCount
+      });
+  
+      // Aggiorna gli stati con i nuovi valori
+      setDbTotalConversations(totalConversations);
+      setDbTotalMessages(totalMessages);
+      
+      // Verifica se il numero di conversazioni è cambiato
+      if (lastPolledCount > 0 && totalConversations > lastPolledCount) {
+        console.log(`Nuova conversazione rilevata! (${lastPolledCount} -> ${totalConversations})`);
         loadConversations(true);
       }
       
-      setLastPolledCount(data.totalConversations || 0);
+      setLastPolledCount(totalConversations);
+      
     } catch (error) {
       console.error('Error fetching counters:', error);
       setError(`Failed to load counters: ${error.message}`);
     }
-  };
+  }
 
   // Funzione per caricare le conversazioni dal backend
   const loadConversations = useCallback(async (reset = false) => {
@@ -146,13 +158,14 @@ function ConversationList({ onSelect, selectedConversation, setConversationsLoad
   
   // Configura l'aggiornamento automatico per conversazioni e contatori
   useEffect(() => {
+    console.log("Setting up auto-refresh interval");
     const refreshInterval = setInterval(() => {
-      console.log("Auto-refreshing conversations and counters...");
-      loadCounters(); // Questo attiverà un ricaricamento se rileva nuove conversazioni
+      console.log("Auto-refresh triggered");
+      loadCounters();
     }, AUTO_REFRESH_INTERVAL);
     
     return () => clearInterval(refreshInterval);
-  }, []);
+  }, [loadCounters]); // Includi loadCounters come dipendenza
   
   // Funzione di aggiornamento manuale
   const handleRefresh = () => {
@@ -262,7 +275,7 @@ function ConversationList({ onSelect, selectedConversation, setConversationsLoad
         {isNotMobile && (
           <Box sx={{ position: 'absolute', paddingLeft: 2, paddingBottom: 2, bottom: 0, left: 0, pt: 2 }}>
             <Typography variant="body2" component="span" fontWeight="bold">
-              <a href="https://nuvolaproject.cloud" target="_blank" rel='noopener noreferrer'>By Nuvolaproject</a>
+              <a href="https://nuvolaproject.cloud" target="_blank" rel='noopener noreferrer'>By NuvolaProject</a>
             </Typography>
           </Box>
         )}
